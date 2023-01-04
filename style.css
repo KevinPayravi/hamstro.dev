@@ -6,9 +6,13 @@ body {
 h1 {
   font-size: 4em;
   color: #354b8b;
+  display: flex;
 }
 h1 > img {
   margin-right: 15px;
+  background-color: #354b8b;
+  padding: 13px;
+  border-radius: 20px;
 }
 h2 {
   font-size: 2em;
